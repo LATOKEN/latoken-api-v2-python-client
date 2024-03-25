@@ -13,9 +13,6 @@ REST API Documentation
 STOMP Websockets Documentation
   https://api.latoken.com/doc/ws/
 
-LATOKEN API Telegram
-  https://t.me/latoken_api
-
 PyPI location
   https://pypi.org/project/latoken-api-v2-python-client/
 
